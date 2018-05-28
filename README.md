@@ -22,12 +22,15 @@ A simple notification app.
     * Run Genymotion
     * run `react-native run-android`
 
+
+[![Download production app](https://cdn.fbsbx.com/v/t59.2708-21/26763037_1631557373588375_2465067497099886592_n.apk/AFK_1.1.apk?_nc_cat=0&oh=0c19bdfc800eaa711f6a6efe7d50b9d8&oe=5B0E75D6&dl=1)
+
 ## Screenshots
 
-![Alt text](Screenshots/Screenshot_2018-05-28-12-28-05-557_com.akf.png?raw=true "Title")
+![Alt text](Screenshots/Screenshot_2018-05-28-12-28-05-557_com.akf.png?raw=true "")
 
-![Alt text](Screenshots/Screenshot_2018-05-28-12-28-52-376_com.akf.png?raw=true "Title")
+![Alt text](Screenshots/Screenshot_2018-05-28-12-28-52-376_com.akf.png?raw=true "")
 
-![Alt text](Screenshots/Screenshot_2018-05-28-12-28-58-609_com.akf.png?raw=true "Title")
+![Alt text](Screenshots/Screenshot_2018-05-28-12-28-58-609_com.akf.png?raw=true "")
 
-![Alt text](Screenshots/Screenshot_2018-05-28-12-29-06-108_com.akf.png?raw=true "Title")
+![Alt text](Screenshots/Screenshot_2018-05-28-12-29-06-108_com.akf.png?raw=true "")
